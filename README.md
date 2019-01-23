@@ -1,15 +1,18 @@
-# Gallery
+# Galerie
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+Ce projet est généré avec [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
-## Development server
+## Seveur de developpement
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Lancer `ng serve` pour un serveur de developpement. et naviguer vers `http://localhost:4200/`. L'application sera automatiquement recharger si vous changer aucune ligne.
 
-## Code scaffolding
+## Connexion
+Email : ahcene94@gmail.com
+Mot de passe : ahcene
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-- Si besoin d'un autre compte utilisateur il faut contacter l'administrateur qui vous attribuera un mail et un mot de passe.
 
-## Build
+## Ajout de code
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Lancer `ng generate component component-name` pour générer un nouvel composant. Vous pouvez aussi utiliser `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
