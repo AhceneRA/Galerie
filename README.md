@@ -16,4 +16,3 @@ Lancer `ng serve` pour un serveur de developpement. et naviguer vers `http://loc
 ## Ajout de code
 
 Lancer `ng generate component component-name` pour générer un nouvel composant. Vous pouvez aussi utiliser `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
