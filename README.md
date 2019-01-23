@@ -1,4 +1,4 @@
-# Galerie
+## Galerie
 
 Ce projet est généré avec [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
