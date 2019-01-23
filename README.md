@@ -7,8 +7,8 @@ Ce projet est généré avec [Angular CLI](https://github.com/angular/angular-cl
 Lancer `ng serve` pour un serveur de developpement. et naviguer vers `http://localhost:4200/`. L'application sera automatiquement recharger si vous changer aucune ligne.
 
 ## Connexion
-Email : ahcene94@gmail.com
-Mot de passe : ahcene
+-- Email : ahcene94@gmail.com
+-- Mot de passe : ahcene
 
 -- Si besoin d'un autre compte utilisateur il faut contacter l'administrateur qui vous attribuera un mail et un mot de passe.
 
